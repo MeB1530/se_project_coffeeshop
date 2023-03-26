@@ -7,6 +7,7 @@
   line-height: 20px;
 }
 
-/***body {
+body {
   font-family: "Noto Serif", "Times New Roman", serif;
-}***/
+  font-weight: 400;
+}
